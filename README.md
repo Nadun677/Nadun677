@@ -7,8 +7,8 @@
 ---
 
 ## 👨‍💻 About Me  
-I am a passionate Full-Stack Web & Mobile Developer building modern websites and mobile apps.  
-Currently exploring AI, IoT, and Machine Learning to create smarter applications.  
+I am a Full-Stack Web & Mobile Developer building modern websites and mobile apps.  
+I enjoy turning ideas into real-world applications and exploring AI, IoT, and Machine Learning.
 
 - 💻 Web Development: React, Laravel, PHP, HTML, CSS, JavaScript, TypeScript  
 - 📱 Mobile Development: Flutter, Dart  
@@ -19,8 +19,37 @@ Currently exploring AI, IoT, and Machine Learning to create smarter applications
 
 ## 🛠️ Tech Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,flutter,php,laravel,dart,firebase,js,ts,html,css,sass,tailwind,python,git,github,vscode,docker,linux" />
+### 💻 Web Development
+![React](https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-80%25-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-80%25-blue?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-85%25-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-80%25-blue?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-80%25-yellow?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ⚙️ Backend & Database
+![PHP](https://img.shields.io/badge/PHP-85%25-purple?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-80%25-red?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-80%25-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-75%25-blue?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-90%25-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-95%25-black?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-90%25-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-75%25-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-75%25-black?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 🖥 Animated Skills Typing
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=React+%7C+Flutter+%7C+Laravel+%7C+Firebase+%7C+JavaScript+%7C+TypeScript+%7C+PHP+%7C+Python" alt="Typing Skills Animation"/>
 </p>
 
 ---
