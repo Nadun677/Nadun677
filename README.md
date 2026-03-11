@@ -10,9 +10,9 @@
 I am a Full-Stack Web & Mobile Developer building modern websites and mobile apps.  
 I enjoy turning ideas into real-world applications and exploring AI, IoT, and Machine Learning.
 
-- 💻 Web Development: React, Laravel, PHP, HTML, CSS, JavaScript, TypeScript  
-- 📱 Mobile Development: Flutter, Dart  
-- 🧰 Tools & Platforms: Firebase, Git, GitHub, VS Code, Postman, Docker, Linux  
+- 💻 Web Development: React, Laravel, PHP, HTML, CSS, JavaScript, TypeScript, Mysql 
+- 📱 Mobile Development: Flutter, Dart, Kotlin 
+- 🧰 Tools & Platforms: Firebase, Git, GitHub, VS Code, Postman, Docker, Linux, Android Studio
 - 🤖 Interested in AI & Automation  
 
 ---
