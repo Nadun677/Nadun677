@@ -1,14 +1,21 @@
 # 👋 Hi, I'm Nadun
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer+|+React+%7C+Flutter+%7C+Laravel+%7C+Firebase" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer+e" alt="Typing animation"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-I am a passionate Full‑Stack Web & Mobile Developer building modern, responsive websites and powerful mobile applications.  
-I enjoy turning ideas into reality with code and learning new technologies every day.  
+
+I am a passionate Web and Mobile Application Developer with experience in building modern and user friendly applications.
+
+💻 Skilled in React, Flutter, PHP, Laravel, and Firebase  
+🎓 Currently pursuing Software Engineering at NIBM
+📱 Interested in developing mobile applications and web platforms  
+🤖 Exploring AI, IoT, and Machine Learning technologies  
+🔧 Experienced in IT Support and system troubleshooting  
+🚀 Always learning new technologies and building real-world projects
 
 ---
 
