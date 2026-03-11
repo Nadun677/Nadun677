@@ -1,4 +1,4 @@
-# Hi 👋 I'm Nadun
+# Hello!👋 I'm Nadun
 
 💻 Web & Mobile App Developer  
 📱 Flutter | React | Laravel | Firebase  
@@ -6,25 +6,26 @@
 
 ---
 
-### 🚀 Projects
-- AI Food Delivery App
-- IoT Air Quality Monitoring System
-- React Portfolio Website
+## 🛠️ Tech Stack
 
----
+💻 Web Development  
+<p>
+<img src="https://skillicons.dev/icons?i=react,php,laravel,js,html,css,tailwind" />
+</p>
 
-### 🛠️ Skills
-- React
-- Flutter
-- PHP
-- Laravel
-- Firebase
-- JavaScript
+📱 Mobile Development  
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
 
----
+⚙️ Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ### 📊 GitHub Stats
 ![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadun677&show_icons=true)
+
 
 ---
 ## 👨‍💻 About Me
