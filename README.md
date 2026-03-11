@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nadun
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer+|+React+%7C+Flutter+%7C+Laravel+%7C+Firebase" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer+" alt="Typing animation"/>
 </p>
 
 ---
@@ -47,10 +47,7 @@ I enjoy turning ideas into real-world applications and exploring AI, IoT, and Ma
 
 ---
 
-## 🖥 Animated Skills Typing
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=React+%7C+Flutter+%7C+Laravel+%7C+Firebase+%7C+JavaScript+%7C+TypeScript+%7C+PHP+%7C+Python" alt="Typing Skills Animation"/>
-</p>
+
 
 ---
 
