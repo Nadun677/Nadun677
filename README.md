@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Nadun
 
-<!--
-**Nadun677/Nadun677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web & Mobile App Developer  
+📱 Flutter | React | Laravel | Firebase  
+🤖 Interested in AI, IoT & Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- AI Food Delivery App
+- IoT Air Quality Monitoring System
+- React Portfolio Website
+
+---
+
+### 🛠️ Skills
+- React
+- Flutter
+- PHP
+- Laravel
+- Firebase
+- JavaScript
+
+---
+
+### 📊 GitHub Stats
+![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadun677&show_icons=true)
+
+---
+
+### 📫 Contact
+- LinkedIn
+- Email
