@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nadun
+# Helo!👋, I'm Nadun 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer+" alt="Typing animation"/>
