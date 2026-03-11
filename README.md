@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nadun
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00BFFF&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+App+Developer+|+Flutter+%7C+React+%7C+Laravel+%7C+Firebase" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00BFFF&center=true&vCenter=true&width=500&lines=Web+%26+Mobile+App+Developer+|" alt="Typing SVG"/>
 </p>
 
 ---
