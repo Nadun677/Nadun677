@@ -1,39 +1,26 @@
 # 👋 Hi, I'm Nadun
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer+e" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer+|+React+%7C+Flutter+%7C+Laravel+%7C+Firebase" alt="Typing animation"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
+I am a passionate Full-Stack Web & Mobile Developer building modern websites and mobile apps.  
+Currently exploring AI, IoT, and Machine Learning to create smarter applications.  
 
-I am a passionate Web and Mobile Application Developer with experience in building modern and user friendly applications.
-
-💻 Skilled in React, Flutter, PHP, Laravel, and Firebase  
-🎓 Currently pursuing Software Engineering at NIBM
-📱 Interested in developing mobile applications and web platforms  
-🤖 Exploring AI, IoT, and Machine Learning technologies  
-🔧 Experienced in IT Support and system troubleshooting  
-🚀 Always learning new technologies and building real-world projects
+- 💻 Web Development: React, Laravel, PHP, HTML, CSS, JavaScript, TypeScript  
+- 📱 Mobile Development: Flutter, Dart  
+- 🧰 Tools & Platforms: Firebase, Git, GitHub, VS Code, Postman, Docker, Linux  
+- 🤖 Interested in AI & Automation  
 
 ---
 
 ## 🛠️ Tech Skills
 
-### 💻 Programming & Development
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,flutter,js,ts,php,laravel,nodejs,express,html,css,sass,tailwind,nextjs" />
-</p>
-
-### ☁️ Backend & Cloud / Database
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,graphql,rest" />
-</p>
-
-### 🔧 Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+<img src="https://skillicons.dev/icons?i=react,flutter,php,laravel,dart,firebase,js,ts,html,css,sass,tailwind,python,git,github,vscode,docker,linux" />
 </p>
 
 ---
@@ -41,17 +28,13 @@ I am a passionate Web and Mobile Application Developer with experience in buildi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall GitHub Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nadun677&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-
-  <!-- Languages Usage Graph -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadun677&layout=compact&langs_count=8&theme=radical" alt="Top Languages Graph" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nadun677&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadun677&layout=compact&langs_count=10&theme=radical" alt="Top Languages Graph" />
 </p>
 
 ---
 
-## 📈 More Fun Stats
-
+## 📈 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadun677&theme=radical" alt="GitHub Streak Stats" />
 </p>
@@ -60,7 +43,7 @@ I am a passionate Web and Mobile Application Developer with experience in buildi
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nadun-konara-211502333/"><img height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
