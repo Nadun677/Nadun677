@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer" alt="Typing animation"/>
 </p>
 
+<!-- 3D MODEL SECTION -->
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Nadun's 3D Contribution Graph" width="85%" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me  
@@ -35,7 +40,7 @@ I enjoy turning ideas into real-world applications and exploring AI, IoT, and Ma
 ### ⚙️ Backend & Database
 ![PHP](https://img.shields.io/badge/PHP-85%25-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-80%25-red?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-80%25-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-80%25-blue?style=for-the-badge&logo=mysql&workspace=true&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-75%25-blue?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Tools & Platforms
