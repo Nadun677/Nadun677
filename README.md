@@ -50,9 +50,9 @@ I enjoy turning ideas into real-world applications and exploring AI, IoT, and Ma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nadun677&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-alpha.vercel.app/api?username=Nadun677&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadun677&layout=compact&langs_count=10&theme=radical" alt="Top Languages Graph" />
+  <img height="180" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Nadun677&layout=compact&langs_count=10&theme=radical" alt="Top Languages Graph" />
 </p>
 
 ---
