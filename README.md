@@ -1,7 +1,7 @@
-# Hello!👋, I'm Nadun Nimanshana 
+# Hello! 👋, I'm Nadun Nimanshana  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer+" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer" alt="Typing animation"/>
 </p>
 
 ---
@@ -10,10 +10,10 @@
 I am a Full-Stack Web & Mobile Developer building modern websites and mobile apps.  
 I enjoy turning ideas into real-world applications and exploring AI, IoT, and Machine Learning.
 
-- 💻 Web Development: React, Laravel, PHP, HTML, CSS, JavaScript, TypeScript, Mysql 
-- 📱 Mobile Development: Flutter, Dart, Kotlin 
-- 🧰 Tools & Platforms: Firebase, Git, GitHub, VS Code, Postman, Docker, Linux, Android Studio
-- 🤖 Interested in AI & Automation  
+- 💻 **Web Development:** React, Vite, Tailwind CSS, HTML, CSS, JavaScript, TypeScript, PHP, Laravel, MySQL 
+- 📱 **Mobile Development:** Flutter, Dart, Kotlin  
+- 🧰 **Tools & Platforms:** Firebase, Git, GitHub, VS Code, Postman, Docker, Linux, Android Studio
+- 🤖 **Interests:** AI & Automation  
 
 ---
 
@@ -47,20 +47,18 @@ I enjoy turning ideas into real-world applications and exploring AI, IoT, and Ma
 
 ---
 
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nadun677&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadun677&layout=compact&langs_count=10&theme=radical" alt="Top Languages Graph" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nadun677&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadun677&layout=compact&langs_count=10&theme=radical" alt="Top Languages Graph" />
 </p>
 
 ---
 
 ## 📈 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadun677&theme=radical" alt="GitHub Streak Stats" />
 </p>
@@ -68,9 +66,15 @@ I enjoy turning ideas into real-world applications and exploring AI, IoT, and Ma
 ---
 
 ## 📫 Connect with Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nadun-konara-211502333/"><img height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nadun-konara-211502333/" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.actual.email@example.com">
+    <img height="35" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
